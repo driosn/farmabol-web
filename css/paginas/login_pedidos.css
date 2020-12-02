@@ -1,0 +1,15 @@
+.absolute {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    align-self: center;
+}
+
+.btn .btn-primary {
+    background-color: #157FFB;
+}
